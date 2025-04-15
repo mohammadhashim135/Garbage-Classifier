@@ -1,10 +1,10 @@
-# **Waste Classification Management** ♻️  
+# **Garbage Classifier** ♻️  
 **An AI-powered Real-Time Waste Detector using Streamlit & TensorFlow**
 
 ---
 
 ## **Overview**  
-**Waste Classification Management** is a smart web application built with **Streamlit**, allowing users to classify waste in real time using a trained **Keras deep learning model**. Whether it's biodegradable or non-biodegradable, this app helps promote sustainable waste segregation with the power of machine learning and computer vision.
+**Garbage Classifier** is a smart web application built with **Streamlit**, allowing users to classify waste in real time using a trained **Keras deep learning model**. Whether it's biodegradable or non-biodegradable, this app helps promote sustainable waste segregation with the power of machine learning and computer vision.
 
 ---
 
@@ -41,7 +41,7 @@
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mohammadhashim135/Waste-Classification-Management.git
+git clone https://github.com/mohammadhashim135/Garbage-Classifier.git
 cd your-repo-name
 ```
 ### **2. Create a Virtual Environment**
@@ -127,5 +127,5 @@ git push origin feature-branch
 ## **License** 📜
 This project is licensed under the MIT License.
 
-💡 Developed with ❤️ by [Mohammad Hashim](https://github.com/mohammadhashim135/Waste-Classification-Management.git)
+💡 Developed with ❤️ by [Mohammad Hashim](https://github.com/mohammadhashim135/Garbage-Classifier.git)
 
