@@ -34,7 +34,7 @@ def classify_waste(img):
     return class_name, confidence_score
 
 st.set_page_config(layout='wide')
-st.title("♻ Waste Classification Management App")
+st.title("♻ Garbage Classifier App")
 st.markdown("Upload a waste image to identify its type and understand its environmental impact.")
 
 input_img = st.file_uploader("Upload an image (JPG, PNG, JPEG)", type=['jpg', 'png', 'jpeg'])
