@@ -1,0 +1,37 @@
+# Python virtual environments
+.venv/
+.env/
+
+# VSCode settings
+.vscode/
+
+# Keras model file (if you don't want to upload it to GitHub)
+keras_model.h5
+
+# Bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# IDE files
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+# Dependency directories
+node_modules/
+
+# Other files to exclude
+*.sqlite
+b.py
