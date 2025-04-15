@@ -20,10 +20,9 @@
 ## 📸 Screenshot
 
 
-![Image](https://github.com/user-attachments/assets/7dbd1ce9-5a04-4731-b567-3ac13cf45c33)
+![Image](https://github.com/user-attachments/assets/2e093adf-188a-4512-bdf1-934175d97a31)
 
-
-![classification](https://github.com/user-attachments/assets/2195ab21-ce2f-4cde-ae43-026b3eec82c4)
+![classifier](https://github.com/user-attachments/assets/d3de843e-8d5f-4ab5-bc63-e7b7853b044b)
 
 
 
