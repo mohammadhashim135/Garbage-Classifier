@@ -79,9 +79,17 @@ streamlit run app.py
 
 ## **Project Structure** 📂
 ```bash
-your_project/
+Garbage-Classifier/
 │
-├── app.py                      # Main Streamlit app file
+├── Glass/           # Folder containing glass waste
+│   ├── glass1.png
+│   ├── glass2.png
+│   ├── ...
+├── Plastic/           # Folder containing plastic waste
+│   ├── plastic1.png
+│   ├── plastic.png
+│   ├── ...
+├── app.py                     # Main Streamlit app file
 ├── keras_model_fixed.h5       # Pre-trained model for waste classification
 ├── labels.txt                 # Class labels for the model
 ├── sustainable_dev_goal/      # Folder containing SDG icons
