@@ -4,7 +4,7 @@
 ---
 
 ## **Overview**  
-**Garbage Classifier** is a smart web application built with **Streamlit**, allowing users to classify waste in real time using a trained **Keras deep learning model**. Whether it's biodegradable or non-biodegradable, this app helps promote sustainable waste segregation with the power of machine learning and computer vision.
+**Garbage Classifier** is a smart web application built with **Streamlit**, allowing users to classify waste in real time using a trained **Keras deep learning model**. Whether it's a biodegradable or non-biodegradable, this app helps promote sustainable waste segregation with the power of machine learning and computer vision.
 
 ---
 
