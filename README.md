@@ -31,7 +31,7 @@
 - **Backend:** Python  
 - **Deep Learning:** TensorFlow / Keras  
 - **Libraries:** NumPy, PIL, TensorFlow, Streamlit  
-- **Model File:** `keras_model.h5` (excluded from GitHub for size/security)
+- **Model File:** `keras_model_fixed.h5` 
 
 ---
 
