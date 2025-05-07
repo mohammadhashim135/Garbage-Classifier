@@ -71,8 +71,11 @@ streamlit run app.py
 ## **Usage Guide** 📝
 
 🔹 **Click Browse Files or Use Camera to upload an image of the waste.**
+
 🔹 **The model predicts whether the waste is Biodegradable or Non-Biodegradable.**
+
 🔹 **View the prediction and take action accordingly.**
+
 🔹 **You can re-upload to classify more waste.**
 
 ---
