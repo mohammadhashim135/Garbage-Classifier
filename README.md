@@ -13,7 +13,7 @@
 ✅ **Built with Deep Learning** – Uses a trained Keras model for high accuracy waste classification.  
 ✅ **Clean Streamlit Interface** – Simple and intuitive UI for ease of use.  
 ✅ **Instant Feedback** – Get classification results immediately upon uploading.  
-✅ **Lightweight Deployment** – Easily deployable on [Streamlit Cloud](https://streamlit.io/cloud).
+✅ **Lightweight Deployment** – Easily deployable on [Streamlit Cloud](https://garbage-classifier-ai.streamlit.app/).
 
 ---
 
